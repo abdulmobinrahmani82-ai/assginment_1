@@ -93,7 +93,8 @@ This function counts the number of characters in a string recursively.
 This function calculates the GCD of two numbers using the Euclidean algorithm recursively.
 
  Output:
-<img width="859" height="633" alt="Screenshot 2026-03-21 010845" src="https://github.com/user-attachments/assets/9bc22d9a-0ea1-4b83-9382-a84892ab50fb" />
+<img width="1270" height="624" alt="image" src="https://github.com/user-attachments/assets/3b8b78e2-270e-4541-b3b0-5b261e7e111a" />
+
 
 
 
